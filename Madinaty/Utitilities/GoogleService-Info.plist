@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>278954428271-a9ikmdp60q1o2hhlr6st4n5m5gnjrahc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.278954428271-a9ikmdp60q1o2hhlr6st4n5m5gnjrahc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-6Ytxw_-Vle2RNlS3j70WxErfIWAM2Lc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>278954428271</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Abdullah-Abdelzaher.Madinaty</string>
+	<key>PROJECT_ID</key>
+	<string>madientylogin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>madientylogin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:278954428271:ios:e4e3a2423b41dbea93ca9a</string>
+	<key>DATABASE_URL</key>
+	<string>https://madientylogin.firebaseio.com</string>
+</dict>
+</plist>

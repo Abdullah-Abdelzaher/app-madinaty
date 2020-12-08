@@ -1,0 +1,6 @@
+framework module Pods_Madinaty {
+  umbrella header "Pods-Madinaty-umbrella.h"
+
+  export *
+  module * { export * }
+}
